@@ -9,3 +9,5 @@
    within the `#lyrics-list` unordered list.
 3. Display each array item to the page sequentially, at
    1.5 second intervals
+
+// Solution is in the src folder, index.js & syle.css, and index.html!
