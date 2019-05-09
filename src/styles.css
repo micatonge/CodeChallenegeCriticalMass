@@ -1,3 +1,9 @@
 body {
   font-family: sans-serif;
 }
+#lyrics-list, h1{
+  background-color: lightblue;
+  text-align: center;
+  color: white;
+  border: 2px solid yellow;
+}
